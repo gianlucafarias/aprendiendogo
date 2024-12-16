@@ -36,5 +36,4 @@ func main() {
 	fmt.Println("Puede entrar:", puedeEntrar)
 	fmt.Println("Puede salir:", puedeSalir)
 	fmt.Println("No puede salir:", noPuedeSalir)
-
 }
