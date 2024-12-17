@@ -26,3 +26,25 @@
     - Grupos de espera ('sync.Waitgroup)
 
 ### Módulo 4: Programación Avanzada en Go
+
+1. **Manejo de Errores**
+    - Error handling basico ('error')
+    - Errores personalizados
+    - Panics y Recovers
+
+2. **Programación orientada a Objetos en Go
+    - Diferencias entre Go y otros lenguajes OOP
+    - Emulación de patrones OOP con structs e interfaces
+    - Inyeccion de dependencias en Go
+
+3. **Manipulación de archivos en Go**¨
+    - Lectura y escritura de archivos
+    - Manejo de archivos binarios
+    - Trabajo con JSON y XML
+
+4. **Programación de Redes**
+    - Sockets y conexiones TCP/UDP
+    - Construcción de servidores HTTP
+    - Manejo de websockets en Go
+    - APIs RESTful con 'net/http'
+
