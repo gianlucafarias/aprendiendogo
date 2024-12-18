@@ -48,3 +48,25 @@
     - Manejo de websockets en Go
     - APIs RESTful con 'net/http'
 
+### Módulo 5: Ecosistema y Buenas Prácticas
+
+1. **Módulos y Paquetes**
+    - Creación y uso de paquetes
+    - Organización de Proyectos Go
+    - Gestión de dependencias con Go Modules
+
+2. **Pruebas y Testeo**
+    - Introducción a pruebas unitarias en Go ('testing')
+    - Pruebas con tablas de test (table-driven tests)
+    - Mocking y Pruebas de integración
+    - Cobertura de código y análisis
+
+3. **Documentación**
+    - Comentarios y generación de documentación ('go doc')
+    - Buenas prácticas de documentación
+
+4. **Herramientas de Desarrollo**
+    - 'go fmt', 'go vet', 'golint
+    - 'go build', 'go run', 'go install
+    - Uso de 'go mod' y 'go get'
+    
